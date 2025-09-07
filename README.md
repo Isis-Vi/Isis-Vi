@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isis Villa. I'm currently studying an intensive curse of programming  (ง •_•)ง
-- 👀 I’m interested in videogames, ducks and art! ¯\(°_o)/¯
-- 📫 How to reach me:  isisvija@gmail.com
+- 👀 I’m interested in videogames, ducks, art and AI! ¯\(°_o)/¯
+- 📫 How to reach me:  isisviljar@gmail.com
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning:
 
